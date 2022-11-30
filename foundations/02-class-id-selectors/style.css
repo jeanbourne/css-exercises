@@ -1,0 +1,17 @@
+.paragraph {
+    background-color: rgb(255,192,203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.paragraph.cooler {
+    font-size: 24px;
+}
+#two {
+    color: #87CEEB;
+    font-size: 36px;
+} 
+
+#four {
+    background-color: hsl(130, 91%, 78%);
+    font-size: 24px;
+    font-weight: bold;
+}
